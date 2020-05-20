@@ -1,0 +1,15 @@
+2020-05-20 17:38:12.710 23204-23204/pl.blachowski.raviolimanager D/ZeverCrawler: ZeverCrawler: in
+2020-05-20 17:38:13.303 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: connection1: 302
+2020-05-20 17:38:13.305 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: redirection address http://www.zevercloud.com/login;jsessionid=171A96B5DEA7ABAB4B50FAA3E1DC7C52
+2020-05-20 17:38:13.305 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookies   JSESSIONID=171A96B5DEA7ABAB4B50FAA3E1DC7C52; Path=/; HttpOnly
+2020-05-20 17:38:13.305 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookie 0 JSESSIONID=171A96B5DEA7ABAB4B50FAA3E1DC7C52
+2020-05-20 17:38:13.305 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookie 1  Path=/
+2020-05-20 17:38:13.305 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookie 2  HttpOnly
+2020-05-20 17:38:14.568 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: connection2: 301
+2020-05-20 17:38:14.569 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: redirection address https://www.zevercloud.com/login;jsessionid=171A96B5DEA7ABAB4B50FAA3E1DC7C52
+2020-05-20 17:38:14.569 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookies  null
+2020-05-20 17:38:14.576 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: connection3 address: https://www.zevercloud.com/login;jsessionid=171A96B5DEA7ABAB4B50FAA3E1DC7C52
+2020-05-20 17:38:15.212 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: connection3: 200
+2020-05-20 17:38:15.212 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: redirection address null
+2020-05-20 17:38:15.213 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: cookies  acw_tc=2ff62b9815899890952323805e2e1975f6563ed4bd5799c981217fe818;path=/;HttpOnly;Max-Age=1800
+2020-05-20 17:38:16.561 23204-25916/pl.blachowski.raviolimanager D/ZeverCrawler: doInBackground: result is
